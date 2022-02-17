@@ -1,0 +1,48 @@
+CRITICAL - 2022-02-10 16:26:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\code\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\code\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\code\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\code\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-10 17:10:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\code\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\code\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\code\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\code\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-10 11:17:24 --> Invalid file: Otronormal.php
+#0 C:\xampp\htdocs\code\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Otronormal.php')
+#1 C:\xampp\htdocs\code\system\Common.php(1089): CodeIgniter\View\View->render('Otronormal', Array, true)
+#2 C:\xampp\htdocs\code\app\Controllers\Home.php(18): view('Otronormal')
+#3 C:\xampp\htdocs\code\system\CodeIgniter.php(825): App\Controllers\Home->Otranormal()
+#4 C:\xampp\htdocs\code\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\code\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 11:18:03 --> Invalid file: Otranormal.php
+#0 C:\xampp\htdocs\code\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Otranormal.php')
+#1 C:\xampp\htdocs\code\system\Common.php(1089): CodeIgniter\View\View->render('Otranormal', Array, true)
+#2 C:\xampp\htdocs\code\app\Controllers\Home.php(18): view('Otranormal')
+#3 C:\xampp\htdocs\code\system\CodeIgniter.php(825): App\Controllers\Home->Otranormal()
+#4 C:\xampp\htdocs\code\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\code\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 11:20:25 --> Invalid file: Otranormal.php
+#0 C:\xampp\htdocs\code\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Otranormal.php')
+#1 C:\xampp\htdocs\code\system\Common.php(1089): CodeIgniter\View\View->render('Otranormal', Array, true)
+#2 C:\xampp\htdocs\code\app\Controllers\Home.php(18): view('Otranormal')
+#3 C:\xampp\htdocs\code\system\CodeIgniter.php(825): App\Controllers\Home->Otranormal()
+#4 C:\xampp\htdocs\code\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\code\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 11:20:30 --> Invalid file: Otranormal.php
+#0 C:\xampp\htdocs\code\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Otranormal.php')
+#1 C:\xampp\htdocs\code\system\Common.php(1089): CodeIgniter\View\View->render('Otranormal', Array, true)
+#2 C:\xampp\htdocs\code\app\Controllers\Home.php(18): view('Otranormal')
+#3 C:\xampp\htdocs\code\system\CodeIgniter.php(825): App\Controllers\Home->Otranormal()
+#4 C:\xampp\htdocs\code\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\code\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
